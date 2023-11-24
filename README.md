@@ -3,4 +3,4 @@
 
 <의료영상처리 프로젝트>
 
-팀원 : 최대현(PM, Engineer), 정영진(Engineer), 이상경(Engineer), 이수하(Engineer) 
+팀원 : 최대현(PM, Engineer), 정영진(Engineer), 이상경(Data Analysist), 이수하(Data Analysist) 
