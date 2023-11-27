@@ -5,5 +5,11 @@
 
 팀원 : 최대현(PM, Engineer), 정영진(Engineer), 이상경(Data Analysist), 이수하(Data Analysist) 
 
-## Prototype 
-![ezgif com-video-to-gif](https://github.com/dablro12/Psycho-Detector/assets/54443308/d52aea72-060b-4ba6-802f-49aad7357b3a)
+## Prototype Video
+### Orginal Video(Input)
+![original test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/7487dfe2-5301-4347-884d-f6484def0e88)
+### Tic Detector Video(Output)
+![test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/9bd97124-e56c-4da3-a266-de1b7527f764)
+
+
+### Streamlit Page
