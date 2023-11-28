@@ -1,5 +1,3 @@
-## Prototype Video
-
 # Psycho-Detector 🧠
 # Short-term Muscular Tic-Patients Detector : Half-Automated Extracted Model based Algorithms using Google MediaPipe to Analysis Tic Region of Interest
 #### Project nickname : Psycho Detector
