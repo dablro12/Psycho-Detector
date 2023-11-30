@@ -44,13 +44,15 @@ Pipeline
 - face_emotion_detector : 표정 감지 딥러닝 모델 inference 함수
 - save_area : Mesh data 부피 저장 함수
 - z_score_norm : Z_score Normalization 함수
+  
 **- Scoring : Feature Scoring **
 - total_weight_score : 최종 스코어 함수
 - hanging_face_score : 머리 Hanging Scoring 함수
 - unpair_eye_blink_score : 눈 찡그림 감지 및 Scoring 함수
 - blink_equal_score : 눈 감기 Scoring 함수
 - emotion_scoring : 표정 감지 Scoring 함수
-**- Analysis : 얼굴 내 존재하는 특징(눈, 얼굴 등 특정 부위의 영역과 좌표(x,y,z)**
+  
+**- Analysis : 얼굴 내 존재하는 특징(눈, 얼굴 등 특정 부위의 영역과 좌표(x,y,z) **
 - save_np : 프레임별 랜드마크 저장 함수
 - landmark_analysis_plot : 랜드마크 분석 함수
 - calculate_triangle_area : 메쉬 데이터 면적 계산 함수
