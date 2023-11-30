@@ -8,7 +8,7 @@
 
 ## 0. Service description
 ### Orginal Video(Input) / Tic Detector Video(Output)
-![original test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/7487dfe2-5301-4347-884d-f6484def0e88) ![test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/9bd97124-e56c-4da3-a266-de1b7527f764)
+![original test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/7487dfe2-5301-4347-884d-f6484def0e88) ![ezgif com-video-to-gif](https://github.com/dablro12/Psycho-Detector/assets/54443308/6b64c9bb-1ff7-4158-877e-1ac6a7203812)
 
 
 ### 
@@ -23,7 +23,7 @@
 - 사용자가 집중력을 잃고 피로하거나 스트레스를 받는 경우, 휴식을 제안하는 메시지나 음악 선택 등의 집중력 향상 방안 및 학습 평가 결과를 제시해 사용자의 학습 개선 방안을 제공한다.
 - 사용자가 무의식적으로 나타내는 강의 내용의 이해와 관련된 행동(고개 끄덕임, 얼굴 찡그림, 표정 등)을 파악하여 강의자의 지도 개선에 도움을 준다.
 
-![pipeline](https://github.com/dablro12/Psycho-Detector/assets/54443308/1e04430d-86cf-497a-821c-1eb6b8fc8f9a)
+![스크린샷 2023-11-30 오후 4 58 22](https://github.com/dablro12/Psycho-Detector/assets/54443308/dbb51943-5bc1-4a7b-869b-e55ed2f63a60)
 Pipeline
 
 ### 1. function list
