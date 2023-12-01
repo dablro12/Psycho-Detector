@@ -1,5 +1,5 @@
 # Psycho-Detector 🧠
-# Short-term Muscular Tic-Patients Detector : Half-Automated Extracted Model based Algorithms using Google MediaPipe to Analysis Tic Region of Interest
+# Short-term Muscular Tic-Patients Detector : Automated Tic Detector Algorithm based model using Google MediaPipe, CNN Classifier to Analysis Tic Region of Interest
 #### Project nickname : Psycho Detector
 #### Member : 최대현(PM, Engineer), 정영진(Engineer), 이상경(Data Analysist), 이수하(Data Analysist) 
 #### Project execution period : 2023.09~2023.12
