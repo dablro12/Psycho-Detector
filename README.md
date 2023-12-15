@@ -112,5 +112,9 @@ Pipeline
 
 `streamlit.py` Web application to visualization our project 
 
-## Usage 
+## Usage Pipeline
 `main.ipynb`
+
+## Usage Solution
+1) Download `test`, `model` folder and  `streamlit.py` file
+2) Execute terminal on your download path, `streamlit run streamlit.py`
