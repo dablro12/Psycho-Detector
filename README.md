@@ -11,10 +11,10 @@
 ![original test_file](https://github.com/dablro12/Psycho-Detector/assets/54443308/7487dfe2-5301-4347-884d-f6484def0e88) ![ezgif com-video-to-gif](https://github.com/dablro12/Psycho-Detector/assets/54443308/6b64c9bb-1ff7-4158-877e-1ac6a7203812)
 
 
-### 
 
 ### Streamlit Page
-[페이지 생성중]
+![1](https://github.com/dablro12/Psycho-Detector/assets/54443308/3cf6ac35-2008-45fc-a9c1-54aa2101ec52)
+![2](https://github.com/dablro12/Psycho-Detector/assets/54443308/ff70587b-2e94-415a-94d8-da0ab8b54c6b)
 
 ## Description & Purpose
 졸음감지 시스템의 행동 패턴 인식 활용하여 1. 심리장애(뚜렛 증후군 및 ADHD 증후군) 감지 및 2. 수업 중 강의 집중력 향상 및 강의 경험 개선 방향을 제시한다.
