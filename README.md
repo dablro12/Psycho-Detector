@@ -1,7 +1,7 @@
 # Psycho-Detector 🧠
 # Short-term Muscular Tic-Patients Detector : Automated Tic Detector Algorithm based model using Google MediaPipe, CNN Classifier to Analysis Tic Region of Interest
 #### Project nickname : Psycho Detector
-#### Member
+### Member
 |구분|이름|역할|
 |---|--------|----------------------------------------------------------|
 |S/W : https://github.com/dablro12|최대현 |프로젝트 총괄, 알고리즘 개발 및 모델 학습 및 적용, 데이터 수집 및 분석|
