@@ -1,11 +1,11 @@
 # Psycho-Detector 🧠
 # Short-term Muscular Tic-Patients Detector : Automated Tic Detector Algorithm based model using Google MediaPipe, CNN Classifier to Analysis Tic Region of Interest
-#### Project nickname : Psycho Detector
+#### Project nickname : Psycho Detector ([자세한내용]https://www.notion.so/Medical-Image-Processing-Psycho-Detector-AI-b535ea49d0e74ac9ac5a7dfee8f3df6b?pvs=4)
 #### Member
 |구분|이름|역할|
 |---|-----|---|
-|S/W : https://github.com/dablro12|최대현 |프로젝트 총괄, 알고리즘 개발 및 모델 학습 및 적용, 데이터 수집 및 분석|
-|S/W : https://github.com/yeongjinjeong|정영진 |Streamlit 파이썬웹앱 구현 및 PPT 제작|
+|S/W : https://github.com/dablro12|[최대현]https://github.com/dablro12 |프로젝트 총괄, 알고리즘 개발 및 모델 학습 및 적용, 데이터 수집 및 분석|
+|S/W : https://github.com/yeongjinjeong|[정영진]https://github.com/yeongjinjeong |Streamlit 파이썬웹앱 구현 및 PPT 제작|
 |S/W |이상경 |데이터 수집 및 분석|
 |H/W |이수하 |데이터 수집 및 라즈베리파이 구동|
 ------------------------
