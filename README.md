@@ -75,8 +75,7 @@ Pipeline
 ## Environment
 
 > Python Version 3.8.18
-> pytorch latest version
-> Linux Ubuntu
+> Linux Ubuntu 20.0.2
 
 
 ## Prerequisite
@@ -125,5 +124,6 @@ Pipeline
 `main.ipynb`
 
 ## Usage Solution
+0) Make a Virtual ENV, Download `requirements.txt` and pip `requirements.txt` file 
 1) Download `test`, `model` folder and  `streamlit.py` file
 2) Execute terminal on your download path, `streamlit run streamlit.py`
