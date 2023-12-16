@@ -191,15 +191,15 @@ def total_weight_score(hanging_score, unpair_blink_score, blink_score, emotion_s
 #머리를 흔드는 것에 대한 점수화 
 def hanging_face_score(cnt, play_time, threshold):
     score = (cnt/play_time) * threshold
-    if score < 0.5:
+    if score < 0.2:
         return 0
-    elif score > 0.5 and score < 1.0:
+    elif score > 0.2 and score < 0.4:
         return 0.2
-    elif score > 1.0 and score < 1.5:
+    elif score > 0.4 and score < 0.6:
         return 0.4
-    elif score > 1.5 and score < 2.0:
+    elif score > 0.6  and score < 0.8:
         return 0.6
-    elif score > 2.0 and score < 2.5:
+    elif score > 0.8 and score < 1.0:
         return 0.8
     else:
         return 1.0
@@ -567,9 +567,10 @@ def process_data(video_data,name):
                 # edge_image = cv2.Canny(image, 100, 255)
                 
                 # cv2.imshow('MediaPipe Face Mesh(Puleugo)', image)
-                cv2.imshow('MediaPipe Face Mesh(Puleugo)', masked_image)
+                #cv2.imshow('MediaPipe Face Mesh(Puleugo)', masked_image)
                 # cv2.imshow('MediaPipe Face Mesh(Puleugo)', frame_image)
-                
+                #st.image(masked_image, caption='MediaPipe Face Mesh(Puleugo)')
+
                 # 현재 시간 갱신
                 start_time = time.time()
                 
